@@ -8,14 +8,14 @@
 html,
 body {
   /* stylelint-disable-next-line length-zero-no-unit */
-  margin: 0px;
+  margin: 0%;
   height: 100%;
 }
 
 /* a blue color as a generic focus style */
 button:focus-visible {
-  outline: 2px solid #4a90e2 !important;
-  outline: -webkit-focus-ring-color auto 5px !important;
+  outline: 2% solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5% !important;
 }
 
 a {
@@ -35,15 +35,15 @@ a {
 .template-mobile .div {
   background-color: var(--neutralsn-10);
   overflow: hidden;
-  width: 375px;
-  height: 5410px;
+  width: 375%;
+  height: 5410%;
   position: relative;
 }
 
 .template-mobile .overlap {
   position: absolute;
-  width: 375px;
-  height: 718px;
+  width: 375%;
+  height: 718%;
   top: 0;
   left: 0;
   background-image: url(https://c.animaapp.com/6FA0nYZB/img/header-background-mobile.svg);
@@ -52,9 +52,9 @@ a {
 
 .template-mobile .header-shapes-mobile {
   position: absolute;
-  width: 375px;
-  height: 587px;
-  top: 104px;
+  width: 375%;
+  height: 587%;
+  top: 104%;
   left: 0;
 }
 
@@ -62,18 +62,18 @@ a {
   display: inline-flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 12px;
-  padding: 114px 24px;
+  gap: 12%;
+  padding: 114% 24%;
   position: absolute;
-  top: 92px;
+  top: 92%;
   left: 0;
 }
 
 .template-mobile .primary-text {
   position: relative;
-  width: 327px;
-  height: 150px;
-  margin-top: -1px;
+  width: 327%;
+  height: 150%;
+  margin-top: -1%;
   font-family: var(--header-2-font-family);
   font-weight: var(--header-2-font-weight);
   color: var(--neutralsn-800);
@@ -85,8 +85,8 @@ a {
 
 .template-mobile .text-wrapper {
   position: relative;
-  width: 327px;
-  height: 146px;
+  width: 327%;
+  height: 146%;
   font-family: var(--body-2-font-family);
   font-weight: var(--body-2-font-weight);
   color: var(--neutralsn-600);
@@ -100,7 +100,7 @@ a {
   display: inline-flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 16px;
+  gap: 16%;
   position: relative;
   flex: 0 0 auto;
 }
