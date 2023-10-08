@@ -28,7 +28,6 @@ a {
     align-content: center !important;
     align-items: center;
     align-self: center;
-
     background-color: #f6f7f8;
     display: flex;
     flex-direction: row;
@@ -40,14 +39,14 @@ a {
   .template-mobile .div {
     background-color: var(--neutralsn-10);
     overflow: hidden;
-     width: 100%;
+    width: 100%;
     height: 5410px;
     position: relative;
   }
 
   .template-mobile .overlap {
     position: absolute;
-     width: 100%;
+    width: 100%;
     height: 718px;
     top: 0;
     left: 0;
@@ -57,7 +56,7 @@ a {
 
   .template-mobile .header-shapes-mobile {
     position: absolute;
-     width: 100%;
+    width: 100%;
     height: 587px;
     top: 104px;
     left: 0;
@@ -188,10 +187,9 @@ a {
     left: -213px;
   }
 
-
   .template-mobile .base-about-my-self {
     position: absolute;
-     width: 100%;
+    width: 100%;
     height: 1263px;
     top: 0;
     left: 213px;
@@ -199,7 +197,7 @@ a {
 
   .template-mobile .contact-me {
     position: absolute;
-     width: 100%;
+    width: 100%;
     height: 779px;
     top: 1125px;
     left: 213px;
@@ -742,7 +740,6 @@ a {
 
   /* Commit No 4 */
 
-
   .template-mobile .project-title-2 {
     position: relative;
     width: 295px;
@@ -858,7 +855,7 @@ a {
 
   .template-mobile .app-bar-compact-dark {
     position: fixed;
-     width: 100%;
+    width: 100%;
     height: 92px;
     top: 0;
     left: 0;
@@ -914,7 +911,7 @@ a {
 
   .template-mobile .bars-status-bars {
     position: fixed;
-     width: 100%;
+    width: 100%;
     height: 44px;
     top: 0;
     left: 0;
@@ -1012,7 +1009,7 @@ a {
 
   .template-mobile .home-indicator-light {
     position: fixed;
-     width: 100%;
+    width: 100%;
     height: 34px;
     top: 5376px;
     left: 0;
@@ -1056,7 +1053,6 @@ a {
   }
 }
 
-
 @media screen and (min-width: 481px) {
   .template-mobile {
     background-color: #f6f7f8;
@@ -1065,7 +1061,7 @@ a {
     justify-content: center;
     width: 100%;
   }
-  
+
   .template-mobile .div {
     background-color: var(--neutralsn-10);
     overflow: hidden;
@@ -1073,25 +1069,25 @@ a {
     height: 5410px;
     position: relative;
   }
-  
+
   .template-mobile .overlap {
     position: absolute;
-     width: 100%;
+    width: 100%;
     height: 718px;
     top: 0;
     left: 0;
     background-image: url(https://c.animaapp.com/6FA0nYZB/img/header-background-mobile.svg);
     background-size: 100% 100%;
   }
-  
+
   .template-mobile .header-shapes-mobile {
     position: absolute;
-     width: 100%;
+    width: 100%;
     height: 587px;
     top: 104px;
     left: 0;
   }
-  
+
   .template-mobile .headline {
     display: inline-flex;
     flex-direction: column;
@@ -1102,7 +1098,7 @@ a {
     top: 92px;
     left: 0;
   }
-  
+
   .template-mobile .primary-text {
     position: relative;
     width: 327px;
@@ -1116,7 +1112,7 @@ a {
     line-height: var(--header-2-line-height);
     font-style: var(--header-2-font-style);
   }
-  
+
   .template-mobile .text-wrapper {
     position: relative;
     width: 327px;
@@ -1129,7 +1125,7 @@ a {
     line-height: var(--body-2-line-height);
     font-style: var(--body-2-font-style);
   }
-  
+
   .template-mobile .social-media {
     display: inline-flex;
     flex-direction: column;
@@ -1138,9 +1134,9 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   /* Commit 2  */
-  
+
   .template-mobile .div-2 {
     display: inline-flex;
     align-items: center;
@@ -1148,7 +1144,7 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .text-wrapper-2 {
     position: relative;
     width: fit-content;
@@ -1162,13 +1158,13 @@ a {
     white-space: nowrap;
     font-style: var(--body-2-bolder-font-style);
   }
-  
+
   .template-mobile .social-media-icons {
     position: relative;
     width: 170.17px;
     height: 20px;
   }
-  
+
   .template-mobile .vector {
     position: absolute;
     width: 14px;
@@ -1176,7 +1172,7 @@ a {
     top: 0;
     left: 156px;
   }
-  
+
   .template-mobile .img {
     position: absolute;
     width: 20px;
@@ -1184,7 +1180,7 @@ a {
     top: 2px;
     left: 79px;
   }
-  
+
   .template-mobile .linkedin-icon {
     position: absolute;
     width: 20px;
@@ -1192,7 +1188,7 @@ a {
     top: 0;
     left: 39px;
   }
-  
+
   .template-mobile .vector-2 {
     position: absolute;
     width: 18px;
@@ -1200,7 +1196,7 @@ a {
     top: 0;
     left: 119px;
   }
-  
+
   .template-mobile .vector-3 {
     position: absolute;
     width: 20px;
@@ -1208,7 +1204,7 @@ a {
     top: 0;
     left: 0;
   }
-  
+
   .template-mobile .overlap-group {
     position: absolute;
     width: 801px;
@@ -1216,16 +1212,14 @@ a {
     top: 3506px;
     left: -213px;
   }
-  
-  
+
   .template-mobile .base-about-my-self {
-    
-     width: 100%;
+    width: 100%;
     height: 1263px;
     top: 0;
     left: 213px;
   }
-  
+
   .template-mobile .contact-me {
     position: absolute;
     width: 50%;
@@ -1233,7 +1227,7 @@ a {
     top: 1125px;
     left: 213px;
   }
-  
+
   .template-mobile .text-area {
     position: absolute;
     width: 327px;
@@ -1241,12 +1235,12 @@ a {
     top: 1619px;
     left: 237px;
   }
-  
+
   .template-mobile .overlap-group-2 {
     position: relative;
     height: 170px;
   }
-  
+
   .template-mobile .container-basic {
     position: absolute;
     width: 327px;
@@ -1254,7 +1248,7 @@ a {
     top: 0;
     left: 0;
   }
-  
+
   .template-mobile .container {
     position: relative;
     width: 329px;
@@ -1266,7 +1260,7 @@ a {
     border: 1px solid;
     border-color: var(--base-100);
   }
-  
+
   .template-mobile .input-text {
     position: absolute;
     width: 273px;
@@ -1283,7 +1277,7 @@ a {
     border: none;
     padding: 0;
   }
-  
+
   .template-mobile .text-field-activated {
     position: absolute;
     width: 327px;
@@ -1291,12 +1285,12 @@ a {
     top: 1485px;
     left: 237px;
   }
-  
+
   .template-mobile .overlap-2 {
     position: relative;
     height: 48px;
   }
-  
+
   .template-mobile .container-basic-2 {
     position: absolute;
     width: 327px;
@@ -1304,7 +1298,7 @@ a {
     top: 0;
     left: 0;
   }
-  
+
   .template-mobile .container-2 {
     position: relative;
     width: 329px;
@@ -1316,7 +1310,7 @@ a {
     border: 1px solid;
     border-color: var(--base-100);
   }
-  
+
   .template-mobile .input-text-2 {
     position: absolute;
     width: 273px;
@@ -1331,15 +1325,15 @@ a {
     line-height: 20px;
     white-space: nowrap;
   }
-  
+
   .template-mobile .contact-form-shapes {
     position: absolute;
-    width:100%;
+    width: 100%;
     height: 709px;
     top: 1146px;
     left: 366px;
   }
-  
+
   .template-mobile .about-my-self {
     display: inline;
     flex-direction: column;
@@ -1351,7 +1345,7 @@ a {
     width: 100%;
     left: 213px;
   }
-  
+
   .template-mobile .div-3 {
     display: inline-flex;
     flex-direction: column;
@@ -1360,7 +1354,7 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .primary-text-2 {
     position: relative;
     width: 327px;
@@ -1375,7 +1369,7 @@ a {
     white-space: nowrap;
     font-style: var(--header-2-font-style);
   }
-  
+
   .template-mobile .p {
     position: relative;
     width: 327px;
@@ -1388,12 +1382,12 @@ a {
     line-height: var(--body-2-line-height);
     font-style: var(--body-2-font-style);
   }
-  
+
   .template-mobile .frame {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .normal-button {
     display: inline-flex;
     align-items: center;
@@ -1406,7 +1400,7 @@ a {
     border: 1px solid;
     border-color: var(--primaryb-400);
   }
-  
+
   .template-mobile .text-wrapper-3 {
     position: relative;
     width: fit-content;
@@ -1421,16 +1415,15 @@ a {
     white-space: nowrap;
     font-style: var(--button-normal-font-style);
   }
-  
+
   .template-mobile .skill-list {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-end;
     position: relative;
     margin-left: 4%;
-
   }
-  
+
   .template-mobile .frame-2 {
     display: inline-flex;
     flex-direction: column;
@@ -1438,13 +1431,13 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .frame-3 {
     position: relative;
     width: 327px;
     height: 72px;
   }
-  
+
   .template-mobile .text-wrapper-4 {
     position: absolute;
     width: 237px;
@@ -1459,7 +1452,7 @@ a {
     line-height: var(--body-1-bolder-line-height);
     font-style: var(--body-1-bolder-font-style);
   }
-  
+
   .template-mobile .icons-icon-chevron-wrapper {
     top: 16px;
     left: 261px;
@@ -1470,15 +1463,15 @@ a {
     border-radius: 8px;
     overflow: hidden;
   }
-  
+
   /* Commit 3 */
-  
+
   .template-mobile .div-4 {
     position: relative;
     width: 24px;
     height: 24px;
   }
-  
+
   .template-mobile .union {
     position: absolute;
     width: 14px;
@@ -1486,7 +1479,7 @@ a {
     top: 8px;
     left: 5px;
   }
-  
+
   .template-mobile .langguage-list {
     display: inline-flex;
     flex-direction: column;
@@ -1496,7 +1489,7 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .frame-4 {
     position: relative;
     width: 303px;
@@ -1505,7 +1498,7 @@ a {
     border-radius: 8px;
     overflow: hidden;
   }
-  
+
   .template-mobile .ellipse {
     position: absolute;
     width: 50px;
@@ -1514,7 +1507,7 @@ a {
     left: 11px;
     object-fit: cover;
   }
-  
+
   .template-mobile .text-wrapper-5 {
     position: absolute;
     width: 215px;
@@ -1530,7 +1523,7 @@ a {
     white-space: nowrap;
     font-style: var(--body-3-bolder-font-style);
   }
-  
+
   .template-mobile .union-2 {
     position: absolute;
     width: 8px;
@@ -1538,7 +1531,7 @@ a {
     top: 5px;
     left: 9px;
   }
-  
+
   .template-mobile .separator-bottom {
     position: absolute;
     width: 327px;
@@ -1547,7 +1540,7 @@ a {
     left: 0;
     background-color: var(--neutralsn-40);
   }
-  
+
   .template-mobile .primary-text-3 {
     position: absolute;
     width: 801px;
@@ -1564,7 +1557,7 @@ a {
     white-space: nowrap;
     font-style: var(--header-2-font-style);
   }
-  
+
   .template-mobile .primary-text-4 {
     position: absolute;
     width: 327px;
@@ -1577,7 +1570,7 @@ a {
     letter-spacing: 0;
     line-height: 28px;
   }
-  
+
   .template-mobile .overlap-wrapper {
     position: absolute;
     width: 327px;
@@ -1585,7 +1578,7 @@ a {
     top: 1553px;
     left: 237px;
   }
-  
+
   .template-mobile .input {
     position: absolute;
     width: 273px;
@@ -1602,7 +1595,7 @@ a {
     border: none;
     padding: 0;
   }
-  
+
   .template-mobile .works {
     display: inline-flex;
     flex-direction: column;
@@ -1614,7 +1607,7 @@ a {
     left: 0;
     width: 100%;
   }
-  
+
   .template-mobile .card-works {
     display: inline-flex;
     flex-direction: column;
@@ -1630,7 +1623,7 @@ a {
     border: 1px solid;
     border-color: var(--neutralsn-40);
   }
-  
+
   .template-mobile .snapshoot-portfolio {
     position: relative;
     width: 100%;
@@ -1640,7 +1633,7 @@ a {
     background-size: cover;
     background-position: 50% 50%;
   }
-  
+
   .template-mobile .project-title {
     position: relative;
     width: 100%;
@@ -1653,7 +1646,7 @@ a {
     line-height: 44px;
     white-space: nowrap;
   }
-  
+
   .template-mobile .frame-5 {
     display: inline-flex;
     align-items: center;
@@ -1661,7 +1654,7 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .div-wrapper {
     display: inline-flex;
     align-items: center;
@@ -1669,7 +1662,7 @@ a {
     position: relative;
     flex: 0 0 auto;
   }
-  
+
   .template-mobile .text {
     position: relative;
     width: fit-content;
@@ -1683,7 +1676,7 @@ a {
     white-space: nowrap;
     font-style: var(--caption-1-bolder-font-style);
   }
-  
+
   .template-mobile .counter {
     position: relative;
     width: 8px;
@@ -1691,7 +1684,7 @@ a {
     background-color: var(--neutralsn-50);
     border-radius: 4px;
   }
-  
+
   .template-mobile .text-2 {
     position: relative;
     width: fit-content;
@@ -1705,7 +1698,7 @@ a {
     white-space: nowrap;
     font-style: var(--caption-1-bolder-font-style);
   }
-  
+
   .template-mobile .primary-text-5 {
     position: relative;
     width: 295px;
@@ -1718,7 +1711,7 @@ a {
     line-height: var(--body-3-line-height);
     font-style: var(--body-3-font-style);
   }
-  
+
   .template-mobile .tag {
     display: inline-flex;
     align-items: center;
@@ -1729,7 +1722,7 @@ a {
     border-radius: 8px;
     overflow: hidden;
   }
-  
+
   .template-mobile .text-wrapper-6 {
     position: relative;
     width: fit-content;
@@ -1743,13 +1736,13 @@ a {
     white-space: nowrap;
     font-style: var(--button-small-font-style);
   }
-  
+
   .template-mobile .action {
     position: relative;
     width: 295px;
     height: 72px;
   }
-  
+
   .template-mobile .normal-button-2 {
     display: inline-flex;
     align-items: center;
@@ -1762,7 +1755,7 @@ a {
     border: 1px solid;
     border-color: var(--primaryb-400);
   }
-  
+
   .template-mobile .snapshoot-portfolio-2 {
     background-image: url(https://c.animaapp.com/6FA0nYZB/img/snapshoot-portfolio-2@2x.png);
     position: relative;
@@ -1772,10 +1765,9 @@ a {
     background-size: cover;
     background-position: 50% 50%;
   }
-  
+
   /* Commit No 4 */
-  
-  
+
   .template-mobile .project-title-2 {
     position: relative;
     width: 295px;
@@ -1788,7 +1780,7 @@ a {
     letter-spacing: 0;
     line-height: 44px;
   }
-  
+
   :root {
     --neutralsn-10: rgba(247, 247, 249, 1);
     --monowhite: rgba(255, 255, 255, 1);
@@ -1868,7 +1860,7 @@ a {
     --button-small-line-height: 16px;
     --button-small-font-style: normal;
   }
-  
+
   .template-mobile .snapshoot-portfolio-3 {
     background-image: url(https://c.animaapp.com/6FA0nYZB/img/snapshoot-portfolio-1@2x.png);
     position: relative;
@@ -1878,7 +1870,7 @@ a {
     background-size: cover;
     background-position: 50% 50%;
   }
-  
+
   .template-mobile .snapshoot-portfolio-4 {
     background-image: url(https://c.animaapp.com/6FA0nYZB/img/snapshoot-portfolio@2x.png);
     position: relative;
@@ -1888,21 +1880,21 @@ a {
     background-size: cover;
     background-position: 50% 50%;
   }
-  
+
   .template-mobile .app-bar-compact-dark {
     position: fixed;
-     width: 100%;
+    width: 100%;
     height: 92px;
     top: 0;
     left: 0;
   }
-  
+
   .template-mobile .toolbar-dark-compact {
     position: relative;
     height: 48px;
     top: 44px;
   }
-  
+
   .template-mobile .logo-placeholder {
     display: inline-flex;
     align-items: center;
@@ -1911,7 +1903,7 @@ a {
     top: 4px;
     left: 12px;
   }
-  
+
   .template-mobile .text-wrapper-7 {
     position: relative;
     width: fit-content;
@@ -1925,7 +1917,7 @@ a {
     line-height: 20px;
     white-space: nowrap;
   }
-  
+
   .template-mobile .icons-icon-menu-wrapper {
     top: 4px;
     left: 311px;
@@ -1936,7 +1928,7 @@ a {
     border-radius: 8px;
     overflow: hidden;
   }
-  
+
   .template-mobile .union-3 {
     position: absolute;
     width: 18px;
@@ -1944,15 +1936,15 @@ a {
     top: 6px;
     left: 3px;
   }
-  
+
   .template-mobile .bars-status-bars {
     position: fixed;
-     width: 100%;
+    width: 100%;
     height: 44px;
     top: 0;
     left: 0;
   }
-  
+
   .template-mobile .group {
     position: absolute;
     width: 67px;
@@ -1960,7 +1952,7 @@ a {
     top: 17px;
     left: 294px;
   }
-  
+
   .template-mobile .battery {
     position: absolute;
     width: 24px;
@@ -1968,7 +1960,7 @@ a {
     top: 0;
     left: 42px;
   }
-  
+
   .template-mobile .capacity-wrapper {
     position: absolute;
     width: 22px;
@@ -1979,7 +1971,7 @@ a {
     border: 1px solid;
     border-color: #00000059;
   }
-  
+
   .template-mobile .capacity {
     position: relative;
     width: 18px;
@@ -1989,7 +1981,7 @@ a {
     background-color: #000;
     border-radius: 1.33px;
   }
-  
+
   .template-mobile .cap {
     position: absolute;
     width: 1px;
@@ -1997,7 +1989,7 @@ a {
     top: 4px;
     left: 23px;
   }
-  
+
   .template-mobile .wifi {
     position: absolute;
     width: 15px;
@@ -2005,7 +1997,7 @@ a {
     top: 0;
     left: 22px;
   }
-  
+
   .template-mobile .cellular-connection {
     position: absolute;
     width: 17px;
@@ -2013,7 +2005,7 @@ a {
     top: 0;
     left: 0;
   }
-  
+
   .template-mobile .time-style {
     position: absolute;
     width: 54px;
@@ -2021,7 +2013,7 @@ a {
     top: 13px;
     left: 21px;
   }
-  
+
   .template-mobile .time {
     position: absolute;
     width: 54px;
@@ -2034,23 +2026,23 @@ a {
     text-align: center;
     line-height: normal;
   }
-  
+
   .template-mobile .span {
     letter-spacing: -0.28px;
   }
-  
+
   .template-mobile .text-wrapper-8 {
     letter-spacing: 0;
   }
-  
+
   .template-mobile .home-indicator-light {
     position: fixed;
-     width: 100%;
+    width: 100%;
     height: 34px;
     top: 5376px;
     left: 0;
   }
-  
+
   .template-mobile .shape {
     position: relative;
     width: 134px;
@@ -2060,7 +2052,7 @@ a {
     background-color: var(--monoblack);
     border-radius: 10px;
   }
-  
+
   .template-mobile .normal-button-3 {
     display: inline-flex;
     align-items: center;
@@ -2072,7 +2064,7 @@ a {
     border-radius: 8px;
     overflow: hidden;
   }
-  
+
   .template-mobile .text-wrapper-9 {
     position: relative;
     width: fit-content;
@@ -2087,6 +2079,4 @@ a {
     white-space: nowrap;
     font-style: var(--button-normal-font-style);
   }
-  
-  
 }
